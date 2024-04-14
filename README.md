@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" alt="">
+  <img height="300" width="100%" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" alt="">
   <h1>Hi 👋, I'm Vishal Bhat</h1>
   <h3>A passionate coder from India</h3>
 </div>
