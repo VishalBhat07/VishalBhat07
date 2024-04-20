@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Vishal Bhat</h1>
 <h3 align="center">A passionate coder from India</h3>
 
-<h1># Welcome to My GitHub Profile!</h1>
+<h1 align="center">Welcome to My GitHub Profile!</h1>
 
 ## About Me
 
@@ -12,14 +12,16 @@ Hey there! I'm Vishal Bhat, a passionate coder and perpetual learner with a keen
 
 Here are a few highlights of my recent projects:
 
-- **https://github.com/VishalBhat07/VishalBhat07** : My portfolio website.
-- **https://github.com/VishalBhat07/VishalBhat07** : Weather website.
-- **https://github.com/VishalBhat07/VishalBhat07** : Spotify clone.
+- **https://github.com/VishalBhat07/my-portfolio** : My portfolio website.
+- **https://github.com/VishalBhat07/weather-app** : Weather website.
+- **https://github.com/VishalBhat07/spotify-clone** : Spotify clone.
 
 ## Get in Touch
 
 - LinkedIn : [VishalBhat](https://github.com/VishalBhat07/VishalBhat07)
-- Email : [Your Email Address](mailto:vishalkbhat.cs23@rvce.edu.in)
+- LeetCode : [https://leetcode.com/VishalBhat07/](https://leetcode.com/VishalBhat07/)
+- CodingNinjas : [https://code360/profile/VishalBhat](https://www.naukri.com/code360/profile/VishalBhat)
+- Email : [vishalkbhat.cs23@rvce.edu.in](mailto:vishalkbhat.cs23@rvce.edu.in)
 
 Feel free to explore my repositories, connect with me on social media, or drop me an email. Let's collaborate and build something awesome together!
 
