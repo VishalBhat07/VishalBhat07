@@ -2,25 +2,24 @@
 <h1 align="center">Hi 👋, I'm Vishal Bhat</h1>
 <h3 align="center">A passionate coder from India</h3>
 
-# Welcome to My GitHub Profile!
+<h1># Welcome to My GitHub Profile!</h1>
 
 ## About Me
 
-Hey there! I'm [Your Name], a passionate coder and perpetual learner with a keen interest in [Your Field/Area of Expertise]. I thrive on tackling complex challenges and collaborating with like-minded individuals to create impactful projects. From algorithmic puzzles to full-stack applications, I'm on a continuous quest for innovation and excellence.
+Hey there! I'm Vishal Bhat, a passionate coder and perpetual learner with a keen interest in data structures , algorithms and web development. I thrive on tackling complex challenges and collaborating with like-minded individuals to create impactful projects. From algorithmic puzzles to full-stack applications, I'm on a continuous quest for innovation and excellence.
 
 ## My Projects
 
 Here are a few highlights of my recent projects:
 
-- **[Project Name 1](link)**: Brief description of the project.
-- **[Project Name 2](link)**: Brief description of the project.
-- **[Project Name 3](link)**: Brief description of the project.
+- **https://github.com/VishalBhat07/VishalBhat07** : My portfolio website.
+- **https://github.com/VishalBhat07/VishalBhat07** : Weather website.
+- **https://github.com/VishalBhat07/VishalBhat07** : Spotify clone.
 
 ## Get in Touch
 
-- LinkedIn: [Your LinkedIn Profile](link)
-- Twitter: [Your Twitter Profile](link)
-- Email: [Your Email Address](mailto:youremail@example.com)
+- LinkedIn : [VishalBhat](https://github.com/VishalBhat07/VishalBhat07)
+- Email : [Your Email Address](mailto:vishalkbhat.cs23@rvce.edu.in)
 
 Feel free to explore my repositories, connect with me on social media, or drop me an email. Let's collaborate and build something awesome together!
 
