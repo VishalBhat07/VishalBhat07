@@ -51,8 +51,8 @@ Feel free to explore my repositories, connect with me on social media, or drop m
 
 ## My Stats
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishalbhat07&show_icons=true&locale=en&layout=compact&theme=dark" alt="vishalbhat07" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishalbhat07&show_icons=true&locale=en&layout=compact&theme=dark" alt="vishalbhat07" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishalbhat07&show_icons=true&locale=en&theme=dark" alt="vishalbhat07" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishalbhat07&show_icons=true&locale=en&theme=dark" alt="vishalbhat07" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalbhat07&theme=dark" alt="vishalbhat07" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalbhat07&theme=dark" alt="vishalbhat07" /></p>
