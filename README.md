@@ -14,7 +14,7 @@ Hey there! I'm Vishal Bhat, a passionate coder and perpetual learner with a keen
 
 Here are a few highlights of my recent projects:
 
-- My portfolio website : **https://github.com/VishalBhat07/my-portfolio**
+- My portfolio website : **[https://github.com/VishalBhat07/my-portfolio](https://vishalbhat07.github.io/my-portfolio/)**
 - Weather website : **https://github.com/VishalBhat07/weather-app**
 - Spotify clone : **https://github.com/VishalBhat07/spotify-clone**
 
