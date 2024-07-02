@@ -14,9 +14,9 @@ Hey there! I'm Vishal Bhat, a passionate coder and perpetual learner with a keen
 
 Here are a few highlights of my recent projects:
 
-- My portfolio website : **https://vishalbhat07.github.io/my-portfolio/**
-- Weather website : **https://github.com/VishalBhat07/weather-app**
-- Spotify clone : **https://github.com/VishalBhat07/spotify-clone**
+- My portfolio website : **[(https://vishal-bhat-portfolio.vercel.app/)](https://vishal-bhat-portfolio.vercel.app/)**
+- Weather website : **[https://cryptoplace-cryptotracker.vercel.app/](https://cryptoplace-cryptotracker.vercel.app/)**
+- Spotify clone : **[https://food-delivery-website-frontend-tr6k.onrender.com/](https://food-delivery-website-frontend-tr6k.onrender.com/)**
 
 ## Languages and Tools
 
@@ -42,7 +42,7 @@ Here are a few highlights of my recent projects:
 
 ## Get in Touch
 
-- LinkedIn : [VishalBhat](https://github.com/VishalBhat07/)
+- LinkedIn : [https://www.linkedin.com/in/vishalbhat07/](https://www.linkedin.com/in/vishalbhat07/))
 - LeetCode : [https://leetcode.com/VishalBhat07/](https://leetcode.com/VishalBhat07/)
 - CodingNinjas : [https://code360/profile/VishalBhat](https://www.naukri.com/code360/profile/VishalBhat)
 - Email : [vishalkbhat.cs23@rvce.edu.in](mailto:vishalkbhat.cs23@rvce.edu.in)
