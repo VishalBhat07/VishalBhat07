@@ -15,8 +15,8 @@ Hey there! I'm Vishal Bhat, a passionate coder and perpetual learner with a keen
 Here are a few highlights of my recent projects:
 
 - My portfolio website : **[https://vishal-bhat-portfolio.vercel.app/](https://vishal-bhat-portfolio.vercel.app/)**
-- Weather website : **[https://cryptoplace-cryptotracker.vercel.app/](https://cryptoplace-cryptotracker.vercel.app/)**
-- Spotify clone : **[https://food-delivery-website-frontend-tr6k.onrender.com/](https://food-delivery-website-frontend-tr6k.onrender.com/)**
+- Cryptoplace (A crytpocurrency tracker) : **[https://cryptoplace-cryptotracker.vercel.app/](https://cryptoplace-cryptotracker.vercel.app/)**
+- Tomato (A zomato clone) : **[https://food-delivery-website-frontend-tr6k.onrender.com/](https://food-delivery-website-frontend-tr6k.onrender.com/)**
 
 ## Languages and Tools
 
@@ -36,13 +36,13 @@ Here are a few highlights of my recent projects:
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
      <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
       <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
-    <!-- <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> -->
-<!-- <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> -->
+    <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> -->
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
          </p>
 
 ## Get in Touch
 
-- LinkedIn : [https://www.linkedin.com/in/vishalbhat07/](https://www.linkedin.com/in/vishalbhat07/))
+- LinkedIn : [https://www.linkedin.com/in/vishalbhat07/](https://www.linkedin.com/in/vishalbhat07/)
 - LeetCode : [https://leetcode.com/VishalBhat07/](https://leetcode.com/VishalBhat07/)
 - CodingNinjas : [https://code360/profile/VishalBhat](https://www.naukri.com/code360/profile/VishalBhat)
 - Email : [vishalkbhat.cs23@rvce.edu.in](mailto:vishalkbhat.cs23@rvce.edu.in)
