@@ -14,7 +14,7 @@ Hey there! I'm Vishal Bhat, a passionate coder and perpetual learner with a keen
 
 Here are a few highlights of my recent projects:
 
-- My portfolio website : **[(https://vishal-bhat-portfolio.vercel.app/)](https://vishal-bhat-portfolio.vercel.app/)**
+- My portfolio website : **[https://vishal-bhat-portfolio.vercel.app/](https://vishal-bhat-portfolio.vercel.app/)**
 - Weather website : **[https://cryptoplace-cryptotracker.vercel.app/](https://cryptoplace-cryptotracker.vercel.app/)**
 - Spotify clone : **[https://food-delivery-website-frontend-tr6k.onrender.com/](https://food-delivery-website-frontend-tr6k.onrender.com/)**
 
