@@ -10,12 +10,16 @@
 
 Hey there! I'm Vishal Bhat, a passionate coder and perpetual learner with a keen interest in data structures , algorithms and web development. I thrive on tackling complex challenges and collaborating with like-minded individuals to create impactful projects. From algorithmic puzzles to full-stack applications, I'm on a continuous quest for innovation and excellence.
 
+- 👨‍💻 All of my projects are available at : [https://vishal-bhat-portfolio.vercel.app/work](https://vishal-bhat-portfolio.vercel.app/work/work.html)
+- 📫 How to reach me : **vishalkbhat.cs23@rvce.edu.in**
+- 📄 Know about my experiences : [my-cv](https://vishal-bhat-portfolio.vercel.app/Assets/images-Vishal/my-cv.pdf)
+
 ## My Projects
 
 Here are a few highlights of my recent projects:
 
 - My portfolio website : **[https://vishal-bhat-portfolio.vercel.app/](https://vishal-bhat-portfolio.vercel.app/)**
-- Cryptoplace (A crytpocurrency tracker) : **[https://cryptoplace-cryptotracker.vercel.app/](https://cryptoplace-cryptotracker.vercel.app/)**
+- Cryptoplace (A crytpocurrency tracker) : **[https://cryptoplace-six.vercel.app/](https://cryptoplace-six.vercel.app/)**
 - Tomato (A zomato clone) : **[https://food-delivery-website-frontend-tr6k.onrender.com/](https://food-delivery-website-frontend-tr6k.onrender.com/)**
 
 ## Languages and Tools
@@ -24,6 +28,7 @@ Here are a few highlights of my recent projects:
 <p align="center"> 
  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+ <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
