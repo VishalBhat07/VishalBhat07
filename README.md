@@ -14,14 +14,6 @@ Hey there! I'm Vishal Bhat, a passionate coder and perpetual learner with a keen
 - 📫 How to reach me : **vishalkbhat.cs23@rvce.edu.in**
 - 📄 Know about my experiences : [my-cv](https://vishal-bhat-portfolio.vercel.app/Assets/images-Vishal/my-cv.pdf)
 
-## My Projects
-
-Here are a few highlights of my recent projects:
-
-- My portfolio website : **[https://vishal-bhat-portfolio.vercel.app/](https://vishal-bhat-portfolio.vercel.app/)**
-- Cryptoplace (A crytpocurrency tracker) : **[https://cryptoplace-six.vercel.app/](https://cryptoplace-six.vercel.app/)**
-- Tomato (A zomato clone) : **[https://food-delivery-website-frontend-tr6k.onrender.com/](https://food-delivery-website-frontend-tr6k.onrender.com/)**
-
 ## Languages and Tools
 
 <h3 align="center"></h3>
@@ -47,10 +39,11 @@ Here are a few highlights of my recent projects:
 
 ## Get in Touch
 
-- LinkedIn : [https://www.linkedin.com/in/vishalbhat07/](https://www.linkedin.com/in/vishalbhat07/)
-- LeetCode : [https://leetcode.com/VishalBhat07/](https://leetcode.com/VishalBhat07/)
-- CodingNinjas : [https://code360/profile/VishalBhat](https://www.naukri.com/code360/profile/VishalBhat)
-- Email : [vishalkbhat.cs23@rvce.edu.in](mailto:vishalkbhat.cs23@rvce.edu.in)
+- **LinkedIn** : [https://www.linkedin.com/in/vishalbhat07/](https://www.linkedin.com/in/vishalbhat07/)
+- **LeetCode** : [https://leetcode.com/VishalBhat07/](https://leetcode.com/VishalBhat07/)
+- **CodeForces** : [https://leetcode.com/VishalBhat07/](https://codeforces.com/profile/VishalBhat07)
+- **CodingNinjas** : [https://code360/profile/VishalBhat](https://www.naukri.com/code360/profile/VishalBhat)
+- **Email** : [vishalkbhat.cs23@rvce.edu.in](mailto:vishalkbhat.cs23@rvce.edu.in)
 
 Feel free to explore my repositories, connect with me on social media, or drop me an email. Let's collaborate and build something awesome together!
 
@@ -61,3 +54,54 @@ Feel free to explore my repositories, connect with me on social media, or drop m
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishalbhat07&show_icons=true&locale=en&theme=dark" alt="vishalbhat07" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalbhat07&theme=dark" alt="vishalbhat07" /></p>
+
+## My Projects & Repositories
+
+### Web Dev Based 🧪
+
+| #   | Project                                                                             | Description                                                                                                                                                                                                                                          |
+| --- | ----------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1.  | [WeatherWise](https://github.com/VishalBhat07/weather-app)                          | A responsive app offering accurate weather forecasts through simple and stylish design.                                                                                                                                                                |
+| 2.  | [My Portfolio](https://github.com/VishalBhat07/my-portfolio)                        | A sleek platform to display your coding skills and projects.                                                                                                                                                 |
+| 3.  | [TaskFlow](https://github.com/VishalBhat07/to-do-list-app)                          | A modern to-do list app built for seamless task management. Easily add, edit, and remove tasks to stay productive throughout your day.                                                                                                         |
+| 4.  | [CoinSync](https://github.com/VishalBhat07/crypto-tracker)                          | Stay synced with the latest market prices for all your favorite cryptos. Powered by Binance API, it offers real-time data in a user-friendly interface.                                                             |
+| 5.  | [TuneBox](https://github.com/VishalBhat07/spotify-clone)                            | A modern and responsive music streaming platform inspired by Spotify’s design. Experience playlists and tracks in an intuitive, music-driven interface. |
+| 6.  | [PassKeeper](https://github.com/VishalBhat07/password-manager)                      | An elegant and functional tool for managing your passwords securely. Store, organize, and retrieve your login details with a user-friendly UI.                                                                                                                                   |
+| 7.  | [QuickCalc](https://github.com/VishalBhat07/simple-calculator-app)                  | An easy-to-use calculator with a focus on simplicity and functionality. Ideal for basic calculations with a clear, responsive layout.                                                                                                                                   |
+| 8.  | [AlgoProgress](https://github.com/VishalBhat07/algo-progress)                       | Keep a detailed log of your Data Structures and Algorithms practice. Track your progress and review your achievements in a user-friendly format.                                                                                                                                            |
+
+### Hackathon Projects 💻
+
+| #   | Project                                                                             | Description                                                                                                                                                                                                                                          |
+| --- | ----------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1.  | [Zero Hunger](https://github.com/VishalBhat07/zero-hunger)                          | An innovative website where farmers can seamlessly trade crops and discover sellers. Powered by React JS and various APIs, FarmMarket ensures a smooth and interactive buying and selling experience.                                                                                                                                                                                                                                                                              |    
+### React.js Based 🌐
+
+| #   | Project                                                                             | Description                                                                                                                                                                                                                                          |
+| --- | ----------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1.  | [CryptoPlace](https://github.com/VishalBhat07/cryptoplace)                          | A comprehensive cryptocurrency tracker with dynamic charts and real-time data. Built with React JS and CoinGecko API for precise insights and React Google Charts for visual analytics.                                                                                                                                                                |
+| 2.  | [GeminiX](https://github.com/VishalBhat07/gemini-clone)                             | A React JS-based clone of ChatGPT, offering interactive and intelligent conversations. Powered by OpenAI API for dynamic responses and seamless interaction.                                                                                                                 |                            
+
+### MERN Stack Based 🌐
+
+| #   | Project                                                                             | Description                                                                                                                                                                                                                                          |
+| --- | ----------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1.  | [Tomato](https://github.com/VishalBhat07/food-delivery-website)                     | A full-stack food discovery platform inspired by Zomato, built with the MERN stack and Stripe payment gateway integration. Explore restaurants, browse menus, and read reviews with a seamless user experience.                                                                                                                                                                                                                                                                              |                            
+### Competitive Programming Solutions 🖥️
+
+| #   | Project                                                                   |
+| --- | ------------------------------------------------------------------------- |
+| 1.  | [My CodeForces Solutions](https://github.com/Hardvan/My-CodeChef-Solutions) |
+| 2.  | [My LeetCode Solutions](https://github.com/Hardvan/My-Leetcode-Solutions) |
+
+### C++ Based 💻
+
+| #   | Project                                                                             | Description                                                                                                                                                                                                                                          |
+| --- | ----------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1.  | [QuizCraze](https://github.com/VishalBhat07/quiz-game)                              | Enter the QuizArena, a C++ game designed for trivia enthusiasts. Compete in a variety of quiz challenges and test your knowledge across multiple subjects, race against the clock to achieve the highest score.                                                                                                                                                                                                                                                                              |        
+### Python-Intensive 🐍
+
+| #   | Project                                                                             | Description                                                                                                                                                                                                                                          |
+| --- | ----------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1.  | [CommandCaster](https://github.com/VishalBhat07/command-caster)                     | A powerful desktop AI assistant designed to simplify your workflow. Powered by Python and Gemini AI API for intelligent responses and seamless task management.                                                                                                                                                                                                                                                                              |   
+
