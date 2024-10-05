@@ -1,14 +1,10 @@
 <h1 align="center">Hi 👋, I'm Vishal Bhat</h1>
 
-<h1 align="center">Welcome to My GitHub Profile!</h1>
+Hey there! I'm Vishal Bhat, a passionate coder and perpetual learner with a keen interest in data structures, algorithms, and web development. I thrive on tackling complex challenges and collaborating with like-minded individuals to create impactful projects. From algorithmic puzzles to full-stack applications, I'm on a continuous quest for innovation and excellence.
 
-## About Me
-
-Hey there! I'm Vishal Bhat, a passionate coder and perpetual learner with a keen interest in data structures , algorithms and web development. I thrive on tackling complex challenges and collaborating with like-minded individuals to create impactful projects. From algorithmic puzzles to full-stack applications, I'm on a continuous quest for innovation and excellence.
-
-- 👨‍💻 All of my projects are available at : [https://vishal-bhat-portfolio.vercel.app/work](https://vishal-bhat-portfolio.vercel.app/work/work.html)
-- 📫 How to reach me : **vishalkbhat.cs23@rvce.edu.in**
-- 📄 Resume : [my-cv](https://vishal-bhat-portfolio.vercel.app/Assets/images-Vishal/my-cv.pdf)
+- 👨‍💻 All of my projects are available at: [https://vishal-bhat-portfolio.vercel.app/work](https://vishal-bhat-portfolio.vercel.app/work/work.html)
+- 📫 How to reach me: **vishalkbhat.cs23@rvce.edu.in**
+- 📄 Resume: [my-cv](https://vishal-bhat-portfolio.vercel.app/Assets/images-Vishal/my-cv.pdf)
 
 ## Languages and Tools
 
@@ -33,22 +29,6 @@ Hey there! I'm Vishal Bhat, a passionate coder and perpetual learner with a keen
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
          </p>
 
-## Get in Touch
-
-- **LinkedIn** : [https://www.linkedin.com/in/vishalbhat07/](https://www.linkedin.com/in/vishalbhat07/)
-- **LeetCode** : [https://leetcode.com/VishalBhat07/](https://leetcode.com/VishalBhat07/)
-- **CodeForces** : [https://leetcode.com/VishalBhat07/](https://codeforces.com/profile/VishalBhat07)
-- **CodingNinjas** : [https://code360/profile/VishalBhat](https://www.naukri.com/code360/profile/VishalBhat)
-- **Email** : [vishalkbhat.cs23@rvce.edu.in](mailto:vishalkbhat.cs23@rvce.edu.in)
-
-Feel free to explore my repositories, connect with me on social media, or drop me an email. Let's collaborate and build something awesome together!
-
-## My Stats
-
-<div style="display: flex; justify-content: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vishalbhat07&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" style="width:300px; height:200px"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=vishalbhat07&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" style="width:400px; height:200px"/>
-</div>
 
 ## My Projects & Repositories
 
@@ -77,6 +57,7 @@ Feel free to explore my repositories, connect with me on social media, or drop m
 | --- | ----------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- |
 | 1.  | [CryptoPlace](https://github.com/VishalBhat07/cryptoplace)                          | A comprehensive cryptocurrency tracker with dynamic charts and real-time data. Built with React JS and CoinGecko API for precise insights and React Google Charts for visual analytics.                                                                                                                                                                | [Live Website](https://cryptoplace-six.vercel.app/) |
 | 2.  | [GeminiX](https://github.com/VishalBhat07/gemini-clone)                             | A React JS-based clone of ChatGPT, offering interactive and intelligent conversations. Powered by OpenAI API for dynamic responses and seamless interaction.                                                                                                                 | [Live Website](https://vishalbhat07.github.io/gemini-clone/) |
+| 3.  | [Journal Hub](https://github.com/VishalBhat07/journal-website)                     | A project developed for the Mechanical Department of RV College of Engineering that enables users to read journal articles, with article submissions restricted to registered authors.                                                                                                                                                                                                                                                                              | [In Progress](https://github.com/VishalBhat07/journal-website) |
 
 ### MERN Stack Based 🌐
 
@@ -85,7 +66,7 @@ Feel free to explore my repositories, connect with me on social media, or drop m
 | 1.  | [Tomato](https://github.com/VishalBhat07/food-delivery-website)                     | A full-stack food discovery platform inspired by Zomato, built with the MERN stack and Stripe payment gateway integration. Explore restaurants, browse menus, and read reviews with a seamless user experience.                                                                                                                                                                                                                                                                              | [Live Website](https://food-delivery-website-frontend-tr6k.onrender.com/) |
 | 2.  | [HistoraXplore](https://github.com/VishalBhat07/histora-xplore)                     | The Interactive History Explorer project allows users to explore historical events and participate in discussions through an engaging, interactive platform.                                                                                                                                                                                                                                                                              | [In Progress](https://github.com/VishalBhat07/crop-connect) |
 | 3.  | [Spend Genius](https://github.com/VishalBhat07/spend-genius)                     | SpendGenius is an AI-driven personal finance manager that helps you track expenses, set budgets, and analyze your spending habits. It also provides financial predictions, fraud detection, and secure authentication.                                                                                                                                                                                                                                                                              | [In Progress](https://github.com/VishalBhat07/spend-genius) |
-| 4.  | [Journal Hub](https://github.com/VishalBhat07/journal-website)                     | A project developed for the Mechanical Department of RV College of Engineering that enables users to read journal articles, with article submissions restricted to registered authors.                                                                                                                                                                                                                                                                              | [In Progress](https://github.com/VishalBhat07/journal-website) |
+
 
 ### Competitive Programming Solutions 🖥️
 
@@ -108,14 +89,33 @@ Feel free to explore my repositories, connect with me on social media, or drop m
 
 ### Notes of Courses/Tutorials 📝
 
-| #   | Project                                                                                                      | 
-| --- | ------------------------------------------------------------------------------------------------------------ |
-| 1.  | [C++ Tutorials by CodeWithHarry](https://github.com/VishalBhat07/cwh-cpp-course)                             |
-| 2.  | [The Ultimate C Programming Course by CodeWithHarry](https://github.com/VishalBhat07/cwh-c-course)           |
-| 3.  | [A to Z DSA Course by Striver](https://github.com/VishalBhat07/striver-dsa-course)                           |  
-| 4.  | [Sigma Web Development Course by CodeWithHarry](https://github.com/VishalBhat07/cwh-webdev-course)           |
-| 5.  | [Complete Javascript Course by W3 Schools](https://github.com/VishalBhat07/w3-javascript-course)             |
-| 6.  | [Python Tutorials for Beginners by CodeWithHarry](https://github.com/VishalBhat07/cwh-python-course)         |
-| 7.  | [Basics of NumPy and Pandas by W3 Schools](https://github.com/VishalBhat07/w3-numpy-pandas-course)           |
-| 7.  | [OpenCV Tutorial with Python by freeCodeCamp.org](https://github.com/VishalBhat07/freecodecamp-opencv-course)|
-| 8.  | [Complete ReactJS Course by Sangam Mukherjee](https://github.com/VishalBhat07/SM-reactJS-course)             |
+| #   | Project                                                                                                      | Author                   | Progress        |
+| --- | ------------------------------------------------------------------------------------------------------------ | ------------------------ | --------------- |
+| 1.  | [C++ Tutorials by CodeWithHarry](https://github.com/VishalBhat07/cwh-cpp-course)                             | CodeWithHarry            | [Completed](https://github.com/VishalBhat07/cwh-cpp-course) |
+| 2.  | [The Ultimate C Programming Course by CodeWithHarry](https://github.com/VishalBhat07/cwh-c-course)           | CodeWithHarry            | [Completed](https://github.com/VishalBhat07/cwh-c-course) |
+| 3.  | [A to Z DSA Course by Striver](https://github.com/VishalBhat07/striver-dsa-course)                           | Striver                  | [In Progress](https://github.com/VishalBhat07/striver-dsa-course) |
+| 4.  | [Sigma Web Development Course by CodeWithHarry](https://github.com/VishalBhat07/cwh-webdev-course)           | CodeWithHarry            | [Completed](https://github.com/VishalBhat07/cwh-webdev-course) |
+| 5.  | [Complete Javascript Course by W3 Schools](https://github.com/VishalBhat07/w3-javascript-course)             | W3 Schools               | [Completed](https://github.com/VishalBhat07/w3-javascript-course) |
+| 6.  | [Python Tutorials for Beginners by CodeWithHarry](https://github.com/VishalBhat07/cwh-python-course)         | CodeWithHarry            | [Completed](https://github.com/VishalBhat07/cwh-python-course) |
+| 7.  | [Basics of NumPy and Pandas by W3 Schools](https://github.com/VishalBhat07/w3-numpy-pandas-course)           | W3 Schools               | [Completed](https://github.com/VishalBhat07/w3-numpy-pandas-course) |
+| 8.  | [OpenCV Tutorial with Python by freeCodeCamp.org](https://github.com/VishalBhat07/freecodecamp-opencv-course)| freeCodeCamp             | [In Progress](https://github.com/VishalBhat07/freecodecamp-opencv-course) |
+| 9.  | [Complete ReactJS Course by Sangam Mukherjee](https://github.com/VishalBhat07/SM-reactJS-course)             | Sangam Mukherjee         | [In Progress](https://github.com/VishalBhat07/SM-reactJS-course) |
+
+
+## Get in Touch
+
+- **LinkedIn** : [https://www.linkedin.com/in/vishalbhat07/](https://www.linkedin.com/in/vishalbhat07/)
+- **LeetCode** : [https://leetcode.com/VishalBhat07/](https://leetcode.com/VishalBhat07/)
+- **CodeForces** : [https://leetcode.com/VishalBhat07/](https://codeforces.com/profile/VishalBhat07)
+- **CodingNinjas** : [https://code360/profile/VishalBhat](https://www.naukri.com/code360/profile/VishalBhat)
+- **Email** : [vishalkbhat.cs23@rvce.edu.in](mailto:vishalkbhat.cs23@rvce.edu.in)
+
+Feel free to explore my repositories, connect with me on social media, or drop me an email. Let's collaborate and build something awesome together!
+
+## My Stats
+
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vishalbhat07&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" style="width:300px; height:200px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vishalbhat07&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" style="width:400px; height:200px"/>
+</div>
+
