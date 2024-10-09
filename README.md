@@ -6,6 +6,7 @@ Hey there! I'm Vishal Bhat, a passionate coder and perpetual learner with a keen
 - 📫 How to reach me: **vishalkbhat.cs23@rvce.edu.in**
 - 📄 Resume: [my-cv](https://vishal-bhat-portfolio.vercel.app/Assets/images-Vishal/my-cv.pdf)
 
+
 ## Languages and Tools
 
 <h3 align="center"></h3>
@@ -121,3 +122,5 @@ Feel free to explore my repositories, connect with me on social media, or drop m
   <img src="https://github-readme-stats.vercel.app/api?username=vishalbhat07&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" style="width:400px; height:200px"/>
 </div>
 
+
+[![](https://visitcount.itsvg.in/api?id=VishalBhat07&label=Profile%20Views&color=2&pretty=false)](https://visitcount.itsvg.in)
