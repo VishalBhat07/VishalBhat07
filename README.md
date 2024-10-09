@@ -117,10 +117,12 @@ Feel free to explore my repositories, connect with me on social media, or drop m
 
 ## My Stats
 
+[![](https://visitcount.itsvg.in/api?id=VishalBhat07&label=Profile%20Views&color=2&pretty=false)](https://visitcount.itsvg.in)
+
 <div style="display: flex; justify-content: center; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vishalbhat07&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" style="width:300px; height:200px"/>
   <img src="https://github-readme-stats.vercel.app/api?username=vishalbhat07&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" style="width:400px; height:200px"/>
 </div>
 
+![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=VishalBhat07&theme=monokai)
 
-[![](https://visitcount.itsvg.in/api?id=VishalBhat07&label=Profile%20Views&color=2&pretty=false)](https://visitcount.itsvg.in)
