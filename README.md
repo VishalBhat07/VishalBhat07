@@ -109,7 +109,7 @@ Hey there! I'm Vishal Bhat, a passionate coder and perpetual learner with a keen
 
 - **LinkedIn** : [https://www.linkedin.com/in/vishalbhat07/](https://www.linkedin.com/in/vishalbhat07/)
 - **LeetCode** : [https://leetcode.com/VishalBhat07/](https://leetcode.com/VishalBhat07/)
-- **CodeForces** : [https://leetcode.com/VishalBhat07/](https://codeforces.com/profile/VishalBhat07)
+- **CodeForces** : [https://codeforces.com/profile/VishalBhat07/](https://codeforces.com/profile/VishalBhat07)
 - **CodingNinjas** : [https://code360/profile/VishalBhat](https://www.naukri.com/code360/profile/VishalBhat)
 - **Email** : [vishalkbhat.cs23@rvce.edu.in](mailto:vishalkbhat.cs23@rvce.edu.in)
 
