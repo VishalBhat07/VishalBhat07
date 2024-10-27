@@ -36,7 +36,7 @@ Hey there! I'm Vishal Bhat, a passionate coder and perpetual learner with a keen
 
 ## My Projects & Repositories
 
-### Web Dev Based 🌐
+![Web Development (JS)](https://img.shields.io/badge/Web%20Development-JS-007ACC?style=for-the-badge&logo=javascript&logoColor=white)
 
 | #   | Project                                                                             | Description                                                                                                                                                                                                                                          | Progress        |
 | --- | ----------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- |
@@ -49,13 +49,13 @@ Hey there! I'm Vishal Bhat, a passionate coder and perpetual learner with a keen
 | 7.  | [QuickCalc](https://github.com/VishalBhat07/simple-calculator-app)                  | An easy-to-use calculator with a focus on simplicity and functionality. Ideal for basic calculations with a clear, responsive layout.                                                                                                                                   | [Live Website](https://vishalbhat07.github.io/simple-calculator-app/) |
 | 8.  | [AlgoProgress](https://github.com/VishalBhat07/algo-progress)                       | Keep a detailed log of your Data Structures and Algorithms practice. Track your progress and review your achievements in a user-friendly format.                                                                                                                                            | [In Progress](https://vishalbhat07.github.io/algo-progress/) |
 
-### Hackathon Projects 💻
+![Hackathon Projects](https://img.shields.io/badge/Hackathon%20Projects-900C3F?style=for-the-badge)
 
 | #   | Project                                                                             | Description                                                                                                                                                                                                                                          | Progress        |
 | --- | ----------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- |
 | 1.  | [Zero Hunger](https://github.com/VishalBhat07/zero-hunger)                          | An innovative website where farmers can seamlessly trade crops and discover sellers. Powered by React JS and various APIs, Zero Hunger ensures a smooth and interactive buying and selling experience.                                                                                                                                                                                                                                                                              | [In Progress](https://github.com/VishalBhat07/zero-hunger)  |
 
-### React.js Based 🌐
+![React.js Based](https://img.shields.io/badge/React.js%20Based-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 
 | #   | Project                                                                             | Description                                                                                                                                                                                                                                          | Progress        |
 | --- | ----------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- |
@@ -63,7 +63,7 @@ Hey there! I'm Vishal Bhat, a passionate coder and perpetual learner with a keen
 | 2.  | [GeminiX](https://github.com/VishalBhat07/gemini-clone)                             | A React JS-based clone of ChatGPT, offering interactive and intelligent conversations. Powered by OpenAI API for dynamic responses and seamless interaction.                                                                                                                 | [Live Website](https://vishalbhat07.github.io/gemini-clone/) |
 | 3.  | [Journal Hub](https://github.com/VishalBhat07/journal-website)                     | A project developed for the **`Mechanical Department of RV College of Engineering`** that enables users to read journal articles, with article submissions restricted to registered authors.                                                                                                                                        | [In Progress](https://github.com/VishalBhat07/journal-website) |
 
-### MERN Stack Based 🌐
+![MERN Stack Based](https://img.shields.io/badge/MERN%20Stack%20Based-3C873A?style=for-the-badge&logo=node.js&logoColor=white)
 
 | #   | Project                                                                             | Description                                                                                                                                                                                                                                          | Progress        |
 | --- | ----------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- |
@@ -72,14 +72,14 @@ Hey there! I'm Vishal Bhat, a passionate coder and perpetual learner with a keen
 | 3.  | [Spend Genius](https://github.com/VishalBhat07/spend-genius)                     | SpendGenius is an AI-driven personal finance manager that helps you track expenses, set budgets, and analyze your spending habits. It also provides financial predictions, fraud detection, and secure authentication.                                                                                                                                                                                                                                                                              | [In Progress](https://github.com/VishalBhat07/spend-genius) |
 
 
-### Competitive Programming Solutions 🖥️
+![Competitive Programming Solutions](https://img.shields.io/badge/Competitive%20Programming%20Solutions-FFC300?style=for-the-badge)
 
 | #   | Project                                                                             | Description                                                                                                                                                                                                                                          | Progress        |
 | --- | ----------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- |
 | 1.  | [CodeForces](https://github.com/VishalBhat07/my-codeforces-solutions)                     | A repository featuring my solutions to Codeforces problems, focusing on algorithms, data structures, and competitive programming techniques.                                                                                                                                                                                                                                                                              | [In Progress](https://github.com/VishalBhat07/my-codeforces-solutions) |
 | 2.  | [LeetCode](https://github.com/VishalBhat07/my-leetcode-solutions)                     | A repository containing my curated solutions to LeetCode problems, covering various algorithms and data structures.                                                                                                                                                                                                                                                                              | [In Progress](https://github.com/VishalBhat07/my-leetcode-solutions) |
 
-### C++ Based 💻
+![C++ Based](https://img.shields.io/badge/C++%20Based-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 | #   | Project                                                                             | Description                                                                                                                                                                                                                                          | Progress        |
 | --- | ----------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- |
@@ -87,13 +87,13 @@ Hey there! I'm Vishal Bhat, a passionate coder and perpetual learner with a keen
 | 2.  | [PassGen++](https://github.com/VishalBhat07/pass-gen)                              | PassGen++ is a C++ application that generates secure, random passwords to enhance online security. Users can customize password length and complexity, making it easy to create strong credentials for various accounts.                                                                                                                                                                                                                                                                              | [Completed](https://github.com/VishalBhat07/pass-gen)   |
 | 3.  | [QuizCraze](https://github.com/VishalBhat07/quiz-game)                              | This was built as a part of my **`Experiential learning project in the first semester`**. Enter the QuizCraze, a C++ game designed for trivia enthusiasts. Compete in a variety of quiz challenges and test your knowledge across multiple subjects. Race against the clock to achieve the highest score.                                                                                                                                                                                                                                                                              | [Completed](https://github.com/VishalBhat07/quiz-game)   |
 
-### Python-Intensive 🐍
+![Python-Intensive](https://img.shields.io/badge/Python--Intensive-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 | #   | Project                                                                             | Description                                                                                                                                                                                                                                          | Progress        |
 | --- | ----------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- |
 | 1.  | [CommandCaster](https://github.com/VishalBhat07/command-caster)                     | A powerful desktop AI assistant designed to simplify your workflow. Powered by Python and Gemini AI API for intelligent responses and seamless task management.                                                                                                                                                                                                                                                                              | [Completed](https://github.com/VishalBhat07/command-caster)   |
 
-### Notes of Courses/Tutorials 📝
+![Notes of Courses/Tutorials](https://img.shields.io/badge/Notes%20of%20Courses%20%2F%20Tutorials-FF4500?style=for-the-badge)
 
 | #   | Project                                                                                                      | Author                   | Progress        |
 | --- | ------------------------------------------------------------------------------------------------------------ | ------------------------ | --------------- |
