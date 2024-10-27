@@ -36,7 +36,7 @@ Hey there! I'm Vishal Bhat, a passionate coder and perpetual learner with a keen
 
 ## My Projects & Repositories
 
-![Web Development (JS)](https://img.shields.io/badge/Web%20Development-JS-007ACC?style=for-the-badge&logo=javascript&logoColor=white)
+![Web Development](https://img.shields.io/badge/Web%20Development-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 | #   | Project                                                                             | Description                                                                                                                                                                                                                                          | Progress        |
 | --- | ----------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- |
@@ -55,7 +55,7 @@ Hey there! I'm Vishal Bhat, a passionate coder and perpetual learner with a keen
 | --- | ----------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- |
 | 1.  | [Zero Hunger](https://github.com/VishalBhat07/zero-hunger)                          | An innovative website where farmers can seamlessly trade crops and discover sellers. Powered by React JS and various APIs, Zero Hunger ensures a smooth and interactive buying and selling experience.                                                                                                                                                                                                                                                                              | [In Progress](https://github.com/VishalBhat07/zero-hunger)  |
 
-![React.js Based](https://img.shields.io/badge/React.js%20Based-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![React.js Based](https://img.shields.io/badge/React.js%20Based-1F8ACB?style=for-the-badge&logo=react&logoColor=white)
 
 | #   | Project                                                                             | Description                                                                                                                                                                                                                                          | Progress        |
 | --- | ----------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- |
