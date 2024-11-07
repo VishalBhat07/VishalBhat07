@@ -1,10 +1,23 @@
 <h1 align="center">Hi 👋, I'm Vishal Bhat</h1>
 
-Hey there! I'm Vishal Bhat, a passionate coder and perpetual learner with a keen interest in data structures, algorithms, and web development. I thrive on tackling complex challenges and collaborating with like-minded individuals to create impactful projects. From algorithmic puzzles to full-stack applications, I'm on a continuous quest for innovation and excellence.
+<table>
+  <tr>
+    <td>
+      <p>
+        Hey there! I'm Vishal Bhat, a passionate coder and perpetual learner with a keen interest in data structures, algorithms, and web development. I thrive on tackling complex challenges and collaborating with like-minded individuals to create impactful projects. From algorithmic puzzles to full-stack applications, I'm on a continuous quest for innovation and excellence.
+      </p>
+      <ul>
+        <li>👨‍💻 All of my projects are available at: <a href="https://vishal-bhat-portfolio.vercel.app/work/work.html">My Portfolio</a></li>
+        <li>📫 How to reach me: <a href="mailto:vishalkbhat.cs23@gmail.com">vishalkbhat.cs23@gmail.com</a></li>
+        <li>📄 Resume: <a href="https://vishal-bhat-portfolio.vercel.app/Assets/images-Vishal/my-cv.pdf">my-cv</a></li>
+      </ul>
+    </td>
+    <td>
+      <img src="939aead2774923168f37bec947cddb0a.gif" width="400" />
+    </td>
+  </tr>
+</table>
 
-- 👨‍💻 All of my projects are available at: [https://vishal-bhat-portfolio.vercel.app/work](https://vishal-bhat-portfolio.vercel.app/work/work.html)
-- 📫 How to reach me: [vishalkbhat.cs23@rvce.edu.in](mailto:vishalkbhat.cs23@rvce.edu.in)
-- 📄 Resume: [my-cv](https://vishal-bhat-portfolio.vercel.app/Assets/images-Vishal/my-cv.pdf)
 
 ## Languages and Tools
 
