@@ -12,9 +12,9 @@
         <li>📄 Resume: <a href="https://vishal-bhat-portfolio.vercel.app/Assets/images-Vishal/my-cv.pdf">my-cv</a></li>
       </ul>
     </td>
-    <td>
+<!--     <td>
       <img src="939aead2774923168f37bec947cddb0a.gif" width="400" />
-    </td>
+    </td> -->
   </tr>
 </table>
 
@@ -70,7 +70,7 @@
 | 1.  | [CryptoPlace](https://github.com/VishalBhat07/cryptoplace)                          | A comprehensive cryptocurrency tracker with dynamic charts and real-time data. Built with React JS and CoinGecko API for precise insights and React Google Charts for visual analytics.                                                                                                                                                                | [Live Website](https://cryptoplace-six.vercel.app/) |
 | 2.  | [GeminiX](https://github.com/VishalBhat07/gemini-clone)                             | A React JS-based clone of Google's Gemini, offering interactive and intelligent conversations. Powered by OpenAI API for dynamic responses and seamless interaction.                                                                                                                 | [Live Website](https://gemini-x-five.vercel.app) |
 | 3.  | [Journal Hub](https://github.com/VishalBhat07/journal-website)                     | A project developed for **`ASM Journal India National Council`** under the **`Mechanical Department of RV College of Engineering`** that enables users to read journal articles, with article submissions restricted to registered authors.                                                                                                                                        | [Live Website](https://asm-journal.vercel.app) |
-| 4.  | [CPU Scheduling Visualizer](https://github.com/VishalBhat07/CPU-scheduling-visualizer)                     | A CPU Scheduling Algorithm Visualizer built as a part of my **`3rd Semester OS Lab Project`** to simulate and analyze various scheduling techniques like FCFS, SJF, SRTF, and Round Robin, helping users understand and compare their efficiency through dynamic Gantt charts and metrics.                                                                                                                                        | [In Progress](https://github.com/VishalBhat07/CPU-scheduling-visualizer) |
+| 4.  | [CPU Scheduling Visualizer](https://github.com/VishalBhat07/CPU-scheduling-visualizer)                     | A CPU Scheduling Algorithm Visualizer built as a part of my **`3rd Semester OS Lab Project`** to simulate and analyze various scheduling techniques like FCFS, SJF, SRTF, and Round Robin, helping users understand and compare their efficiency through dynamic Gantt charts and metrics.                                                                                                                                        | [Live Website](https://cpu-scheduling-visualizer-os.vercel.app) |
 
 ![MERN Stack Based](https://img.shields.io/badge/MERN%20Stack%20Based-3C873A?style=for-the-badge&logo=node.js&logoColor=white)
 
