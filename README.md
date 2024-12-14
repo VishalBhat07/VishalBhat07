@@ -136,14 +136,27 @@
 
 Feel free to explore my repositories, connect with me on social media, or drop me an email. Let's collaborate and build something awesome together!
 
-## My Stats
+## 🌟 My Stats
 
-[![](https://visitcount.itsvg.in/api?id=VishalBhat07&label=Profile%20Views&color=2&pretty=false)](https://visitcount.itsvg.in)
+[![Profile Views](https://visitcount.itsvg.in/api?id=VishalBhat07&label=Profile%20Views&color=2&pretty=false)](https://visitcount.itsvg.in)
 
-<div style="display: flex; justify-content: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vishalbhat07&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" style="width:300px; height:200px"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=vishalbhat07&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" style="width:400px; height:200px"/>
+### 📊 GitHub Stats:
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=VishalBhat07&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VishalBhat07&theme=midnight-purple&hide_border=false" alt="GitHub Streak" />
 </div>
 
-![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=VishalBhat07&theme=monokai)
+<div style="display: flex; justify-content: center; margin-top: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishalBhat07&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</div>
+
+---
+
+### 🚀 LeetCode Stats:
+
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=VishalBhat07&theme=monokai" alt="LeetCode Stats" />
+</div>
+
 
