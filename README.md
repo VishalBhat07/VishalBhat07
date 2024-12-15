@@ -143,8 +143,8 @@ Feel free to explore my repositories, connect with me on social media, or drop m
 ### 📊 GitHub Stats:
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=VishalBhat07&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VishalBhat07&theme=midnight-purple&hide_border=false" alt="GitHub Streak" />
+  <img style="width:360px;" src="https://github-readme-stats.vercel.app/api?username=VishalBhat07&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img style="width:400px;" src="https://github-readme-streak-stats.herokuapp.com/?user=VishalBhat07&theme=midnight-purple&hide_border=false" alt="GitHub Streak" />
 </div>
 
 <div style="display: flex; justify-content: center; margin-top: 10px;">
@@ -156,7 +156,7 @@ Feel free to explore my repositories, connect with me on social media, or drop m
 ### 🚀 LeetCode Stats:
 
 <div style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=VishalBhat07&theme=monokai" alt="LeetCode Stats" />
+  <img style="width:300px;" src="https://leetcode-badge-showcase.vercel.app/api?username=VishalBhat07&theme=monokai" alt="LeetCode Stats" />
 </div>
 
 
