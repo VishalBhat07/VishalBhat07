@@ -125,6 +125,7 @@
 | 7.  | [Basics of NumPy and Pandas by W3 Schools](https://github.com/VishalBhat07/w3-numpy-pandas-course)           | W3 Schools               | [Completed](https://github.com/VishalBhat07/w3-numpy-pandas-course) |
 | 8.  | [OpenCV Tutorial with Python by freeCodeCamp.org](https://github.com/VishalBhat07/freecodecamp-opencv-course)| freeCodeCamp             | [In Progress](https://github.com/VishalBhat07/freecodecamp-opencv-course) |
 | 9.  | [Complete ReactJS Course by Sangam Mukherjee](https://github.com/VishalBhat07/SM-reactJS-course)             | Sangam Mukherjee         | [In Progress](https://github.com/VishalBhat07/SM-reactJS-course) |
+| 10.  | [Machine Learning with Python and Scikit-Learn](https://github.com/VishalBhat07/freecodecamp-ML-python-sckitlearn)             | freeCodeCamp        | [In Progress](https://github.com/VishalBhat07/freecodecamp-ML-python-sckitlearn) |
 
 
 ## Get in Touch
