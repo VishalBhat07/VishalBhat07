@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vishal Bhat</h1>
 
+
 <table>
   <tr>
 <!--     <td> -->
       <p>
-        Hey there! I'm Vishal Bhat, a passionate coder and perpetual learner with a keen interest in data structures, algorithms, and web development. I thrive on tackling complex challenges and collaborating with like-minded individuals to create impactful projects. From algorithmic puzzles to full-stack applications, I'm on a continuous quest for innovation and excellence.
+        Hey there! I'm Vishal Bhat and this is a comprehensive collection of my software development projects, organized by technology stack and development status.
       </p>
       <ul>
         <li>👨‍💻 All of my projects are available at: <a href="https://vishal-bhat-portfolio.vercel.app/work/work.html">My Portfolio</a></li>
@@ -17,6 +18,7 @@
     </td> -->
   </tr>
 </table>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=VishalBhat07&theme=radical&no-frame=false&no-bg=true&margin-w=4)
@@ -48,7 +50,7 @@
 
 ## My Projects & Repositories
 
-![Web Development](https://img.shields.io/badge/Web%20Development-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+## ![Web Development](https://img.shields.io/badge/Web%20Development-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 | #   | Project                                                                             | Description                                                                                                                                                                                                                                          | Progress        |
 | --- | ----------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- |
@@ -62,7 +64,7 @@
 | 8.  | [AlgoProgress](https://github.com/VishalBhat07/algo-progress)                       | Keep a detailed log of your Data Structures and Algorithms practice. Track your progress and review your achievements in a user-friendly format.                                                                                                                                            | [In Progress](https://github.com/VishalBhat07/algo-progress) |
 
 
-![React.js Based](https://img.shields.io/badge/React.js%20Based-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+## ![React.js Based](https://img.shields.io/badge/React.js%20Based-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 | #   | Project                                                                             | Description                                                                                                                                                                                                                                          | Progress        |
 | --- | ----------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- |
@@ -71,7 +73,7 @@
 | 3.  | [Journal Hub](https://github.com/VishalBhat07/journal-website)                     | A project developed for **`ASM Journal India National Council`** under the **`Mechanical Department of RV College of Engineering`** that enables users to read journal articles, with article submissions restricted to registered authors.                                                                                                                                        | [Live Website](https://asm-inc-journal.vercel.app) |
 | 4.  | [CPU Scheduling Visualizer](https://github.com/VishalBhat07/CPU-scheduling-visualizer)                     | A CPU Scheduling Algorithm Visualizer built as a part of my **`3rd Semester OS Lab Project`** to simulate and analyze various scheduling techniques like FCFS, SJF, SRTF, and Round Robin, helping users understand and compare their efficiency through dynamic Gantt charts and metrics.                                                                                                                                        | [Live Website](https://cpu-scheduling-visualizer-os.vercel.app) |
 
-![MERN Stack Based](https://img.shields.io/badge/MERN%20Stack%20Based-3C873A?style=for-the-badge&logo=node.js&logoColor=white)
+## ![MERN Stack Based](https://img.shields.io/badge/MERN%20Stack%20Based-3C873A?style=for-the-badge&logo=node.js&logoColor=white)
 
 | #   | Project                                                                             | Description                                                                                                                                                                                                                                          | Progress        |
 | --- | ----------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- |
@@ -84,14 +86,14 @@
 | 7.  | [techTank Hackathon](https://github.com/VishalBhat07/techtank-hackathon-website)            | A full-stack web application developed for the **`Tech Tank Hackathon & Workshop`** as part of my role as a **`web developer at ACM RVCE`**. The platform was designed to display detailed hackathon information and seamlessly handle participant registrations.                                                                                                                                                                                                                                                                          | [In Progress](https://github.com/VishalBhat07/techtank-hackathon-website) |
 
 
-![Competitive Programming Solutions](https://img.shields.io/badge/Competitive%20Programming%20Solutions-FFC300?style=for-the-badge)
+## ![Competitive Programming Solutions](https://img.shields.io/badge/Competitive%20Programming%20Solutions-FFC300?style=for-the-badge)
 
 | #   | Project                                                                             | Description                                                                                                                                                                                                                                          | Progress        |
 | --- | ----------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- |
 | 1.  | [CodeForces](https://github.com/VishalBhat07/my-codeforces-solutions)                     | A repository featuring my solutions to Codeforces problems, focusing on algorithms, data structures, and competitive programming techniques.                                                                                                                                                                                                                                                                              | [In Progress](https://github.com/VishalBhat07/my-codeforces-solutions) |
 | 2.  | [LeetCode](https://github.com/VishalBhat07/my-leetcode-solutions)                     | A repository containing my curated solutions to LeetCode problems, covering various algorithms and data structures.                                                                                                                                                                                                                                                                              | [In Progress](https://github.com/VishalBhat07/my-leetcode-solutions) |
 
-![C++ Based](https://img.shields.io/badge/C++%20Based-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+## ![C++ Based](https://img.shields.io/badge/C++%20Based-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 | #   | Project                                                                             | Description                                                                                                                                                                                                                                          | Progress        |
 | --- | ----------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- |
@@ -99,20 +101,20 @@
 | 2.  | [PassGen++](https://github.com/VishalBhat07/pass-gen)                              | PassGen++ is a C++ application that generates secure, random passwords to enhance online security. Users can customize password length and complexity, making it easy to create strong credentials for various accounts.                                                                                                                                                                                                                                                                              | [Completed](https://github.com/VishalBhat07/pass-gen)   |
 | 3.  | [QuizCraze](https://github.com/VishalBhat07/quiz-game)                              | This was built as a part of my **`Experiential learning project in the first semester`**. Enter the QuizCraze, a C++ game designed for trivia enthusiasts. Compete in a variety of quiz challenges and test your knowledge across multiple subjects. Race against the clock to achieve the highest score.                                                                                                                                                                                                                                                                              | [Completed](https://github.com/VishalBhat07/quiz-game)   |
 
-![Python-Intensive](https://img.shields.io/badge/Python--Intensive-3776AB?style=for-the-badge&logo=python&logoColor=white)
+## ![Python-Intensive](https://img.shields.io/badge/Python--Intensive-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 | #   | Project                                                                             | Description                                                                                                                                                                                                                                          | Progress        |
 | --- | ----------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- |
 | 1.  | [CommandCaster](https://github.com/VishalBhat07/command-caster)                     | A powerful desktop AI assistant designed to simplify your workflow. Powered by Python and Gemini AI API for intelligent responses and seamless task management.                                                                                                                                                                                                                                                                              | [Completed](https://github.com/VishalBhat07/command-caster)   |
 
-![Hackathon Projects](https://img.shields.io/badge/Hackathon%20Projects-900C3F?style=for-the-badge)
+## ![Hackathon Projects](https://img.shields.io/badge/Hackathon%20Projects-900C3F?style=for-the-badge)
 
 | #   | Project                                                                             | Description                                                                                                                                                                                                                                          | Progress        |
 | --- | ----------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- |
 | 1.  | [Zero Hunger](https://github.com/VishalBhat07/zero-hunger)                          | An innovative website where farmers can seamlessly trade crops and discover sellers. Powered by React JS and various APIs, Zero Hunger ensures a smooth and interactive buying and selling experience.                                                                                                                                                                                                                                                                              | [In Progress](https://github.com/VishalBhat07/zero-hunger)  |
 | 2.  | [elderOS](https://github.com/VishalBhat07/elderOS)                          | elderOS is a web-based application that simulates an operating system tailored for elderly users. It features voice assistance, intuitive navigation, and accessible tools like health reminders and simple app interfaces—making digital interaction easier and more engaging for seniors.                                                                                                                                                                                                                                                                             | [In Progress](https://github.com/VishalBhat07/elderOS)  |
 
-![Notes of Courses/Tutorials](https://img.shields.io/badge/Notes%20of%20Courses%20%2F%20Tutorials-FF4500?style=for-the-badge)
+## ![Notes of Courses/Tutorials](https://img.shields.io/badge/Notes%20of%20Courses%20%2F%20Tutorials-FF4500?style=for-the-badge)
 
 | Course | Author | Topics Covered | Status |
 |--------|--------|----------------|--------|
