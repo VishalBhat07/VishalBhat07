@@ -114,18 +114,18 @@
 
 ![Notes of Courses/Tutorials](https://img.shields.io/badge/Notes%20of%20Courses%20%2F%20Tutorials-FF4500?style=for-the-badge)
 
-| #   | Project                                                                                                      | Author                   | Progress        |
-| --- | ------------------------------------------------------------------------------------------------------------ | ------------------------ | --------------- |
-| 1.  | [C++ Tutorials by CodeWithHarry](https://github.com/VishalBhat07/cwh-cpp-course)                             | CodeWithHarry            | [Completed](https://github.com/VishalBhat07/cwh-cpp-course) |
-| 2.  | [The Ultimate C Programming Course by CodeWithHarry](https://github.com/VishalBhat07/cwh-c-course)           | CodeWithHarry            | [Completed](https://github.com/VishalBhat07/cwh-c-course) |
-| 3.  | [A to Z DSA Course by Striver](https://github.com/VishalBhat07/striver-dsa-course)                           | Striver                  | [In Progress](https://github.com/VishalBhat07/striver-dsa-course) |
-| 4.  | [Sigma Web Development Course by CodeWithHarry](https://github.com/VishalBhat07/cwh-webdev-course)           | CodeWithHarry            | [Completed](https://github.com/VishalBhat07/cwh-webdev-course) |
-| 5.  | [Complete Javascript Course by W3 Schools](https://github.com/VishalBhat07/w3-javascript-course)             | W3 Schools               | [Completed](https://github.com/VishalBhat07/w3-javascript-course) |
-| 6.  | [Python Tutorials for Beginners by CodeWithHarry](https://github.com/VishalBhat07/cwh-python-course)         | CodeWithHarry            | [Completed](https://github.com/VishalBhat07/cwh-python-course) |
-| 7.  | [Basics of NumPy and Pandas by W3 Schools](https://github.com/VishalBhat07/w3-numpy-pandas-course)           | W3 Schools               | [Completed](https://github.com/VishalBhat07/w3-numpy-pandas-course) |
-| 8.  | [OpenCV Tutorial with Python by freeCodeCamp.org](https://github.com/VishalBhat07/freecodecamp-opencv-course)| freeCodeCamp             | [In Progress](https://github.com/VishalBhat07/freecodecamp-opencv-course) |
-| 9.  | [Complete ReactJS Course by Sangam Mukherjee](https://github.com/VishalBhat07/SM-reactJS-course)             | Sangam Mukherjee         | [In Progress](https://github.com/VishalBhat07/SM-reactJS-course) |
-| 10.  | [Machine Learning with Python and Scikit-Learn](https://github.com/VishalBhat07/freecodecamp-ML-python-sckitlearn)             | freeCodeCamp        | [In Progress](https://github.com/VishalBhat07/freecodecamp-ML-python-sckitlearn) |
+| Course | Author | Topics Covered | Status |
+|--------|--------|----------------|--------|
+| [C++ Tutorials](https://github.com/VishalBhat07/cwh-cpp-course) | CodeWithHarry | OOP, STL, Memory Management | [Completed](https://github.com/VishalBhat07/cwh-cpp-course) |
+| [Ultimate C Programming](https://github.com/VishalBhat07/cwh-c-course) | CodeWithHarry | Pointers, Structures, File I/O | [Completed](https://github.com/VishalBhat07/cwh-c-course) |
+| [A to Z DSA Course](https://github.com/VishalBhat07/striver-dsa-course) | Striver | Arrays, Linked Lists, Trees, Graphs, DP | [In Progress](https://github.com/VishalBhat07/striver-dsa-course) |
+| [Sigma Web Development](https://github.com/VishalBhat07/cwh-webdev-course) | CodeWithHarry | HTML, CSS, JavaScript, Responsive Design | [Completed](https://github.com/VishalBhat07/cwh-webdev-course) |
+| [Complete Javascript](https://github.com/VishalBhat07/w3-javascript-course) | W3 Schools | DOM, Async JS, ES6 Features | [Completed](https://github.com/VishalBhat07/w3-javascript-course) |
+| [Python Tutorials](https://github.com/VishalBhat07/cwh-python-course) | CodeWithHarry | Core Python, OOP, Modules | [Completed](https://github.com/VishalBhat07/cwh-python-course) |
+| [NumPy and Pandas Basics](https://github.com/VishalBhat07/w3-numpy-pandas-course) | W3 Schools | Data Manipulation, Analysis | [Completed](https://github.com/VishalBhat07/w3-numpy-pandas-course) |
+| [OpenCV Tutorial](https://github.com/VishalBhat07/freecodecamp-opencv-course) | freeCodeCamp | Image Processing, Computer Vision | [In Progress](https://github.com/VishalBhat07/freecodecamp-opencv-course) |
+| [Complete ReactJS](https://github.com/VishalBhat07/SM-reactJS-course) | Sangam Mukherjee | Components, Hooks, State Management | [In Progress](https://github.com/VishalBhat07/SM-reactJS-course) |
+| [Machine Learning with Python](https://github.com/VishalBhat07/freecodecamp-ML-python-sckitlearn) | freeCodeCamp | ML Algorithms, Data Preprocessing | [In Progress](https://github.com/VishalBhat07/freecodecamp-ML-python-sckitlearn) |
 
 
 ## Get in Touch
