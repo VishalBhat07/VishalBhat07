@@ -176,26 +176,17 @@ Feel free to explore my repositories, connect with me on social media, or drop m
 
 ## 🌟 My Stats
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=VishalBhat07&label=Profile%20Views&color=2&pretty=false)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=VishalBhat07&label=Profile%20views&color=0e75b6&style=flat)
 
 ### 📊 GitHub Stats:
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 20px;">
-  <img style="width:360px;" src="https://github-readme-stats.vercel.app/api?username=VishalBhat07&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img style="width:400px;" src="https://github-readme-streak-stats.herokuapp.com/?user=VishalBhat07&theme=midnight-purple&hide_border=false" alt="GitHub Streak" />
-</div>
-
-<div style="display: flex; justify-content: center; margin-top: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishalBhat07&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</div>
+![Vishal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VishalBhat07&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VishalBhat07&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
 ### 🚀 LeetCode Stats:
-
-<div style="display: flex; justify-content: center; align-items: center;">
-  <img style="width:300px;" src="https://leetcode-badge-showcase.vercel.app/api?username=VishalBhat07&theme=monokai" alt="LeetCode Stats" />
-</div>
+![LeetCode Stats](https://leetcard.jacoblin.cool/VishalBhat07?theme=dark&font=Fira%20Code&ext=activity)
 
 <div align="center">
 
@@ -207,4 +198,3 @@ Feel free to explore my repositories, connect with me on social media, or drop m
 [![GitHub stars](https://img.shields.io/github/stars/VishalBhat07?style=social)](https://github.com/VishalBhat07)
 
 </div>
-
