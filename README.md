@@ -117,6 +117,14 @@
 | 1️⃣  | [**Zero Hunger**](https://github.com/VishalBhat07/zero-hunger) | 🌾 An innovative website where farmers can seamlessly trade crops and discover sellers. Powered by React JS and various APIs, Zero Hunger ensures a smooth and interactive buying and selling experience.                                                                                      | [✅ Completed](https://github.com/VishalBhat07/zero-hunger) |
 | 2️⃣  | [**elderOS**](https://github.com/VishalBhat07/elderOS)         | 👴 elderOS is a web-based application that simulates an operating system tailored for elderly users. It features voice assistance, intuitive navigation, and accessible tools like health reminders and simple app interfaces—making digital interaction easier and more engaging for seniors. | [🌐 Live Website](https://elder-os.vercel.app/info)     |
 
+### ![Hardware Projects](https://img.shields.io/badge/Hardware%20Projects-6A1B9A?style=for-the-badge&logo=raspberrypi&logoColor=white)
+
+| 🏷️ | 📂 Project | 📝 Description | 🔗 Status |
+| --- | --------- | -------------- | --------- |
+| 1️⃣ | **RideSecure** | 🪖 A smart helmet powered by **LPC2148** with an MPU6050 (accelerometer + gyroscope) and gas detection sensors. It detects accidents, sends emergency alerts, and integrates safety mechanisms like ignition lock when the helmet isn’t worn. | [🚧 In Progress](#) |
+| 2️⃣ | **BotanyCloud** | 🌱 A hardware–cloud integrated system that monitors soil parameters using IoT sensors and streams real‑time data to the cloud for analysis. Helps farmers and researchers track plant health, irrigation needs, and environmental conditions. | [🚧 In Progress](#) |
+
+
 ### ![Contributions](https://img.shields.io/badge/Contributions%20&%20Community-4285F4?style=for-the-badge&logo=google-classroom&logoColor=white)
 
 | 🏷️  | 📂 Project                                                                               | 📝 Description                                                                                                                                                                                                                                                                 | 🔗 Status                                                           |
