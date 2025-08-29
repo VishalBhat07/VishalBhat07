@@ -123,8 +123,8 @@
 
 | 🏷️ | 📂 Project | 📝 Description | 🔗 Status |
 | --- | --------- | -------------- | --------- |
-| 1️⃣ | **RideSecure** | 🪖 A smart helmet powered by **LPC2148** with an MPU6050 (accelerometer + gyroscope) and gas detection sensors. It detects accidents, sends emergency alerts, and integrates safety mechanisms like ignition lock when the helmet isn’t worn. | [🚧 In Progress](#) |
-| 2️⃣ | **BotanyCloud** | 🌱 A hardware–cloud integrated system that monitors soil parameters using IoT sensors and streams real‑time data to the cloud for analysis. Helps farmers and researchers track plant health, irrigation needs, and environmental conditions. | [🚧 In Progress](#) |
+| 1️⃣ | **RideSecure** | 🪖 A smart helmet powered by **LPC2148** with an MPU6050 (accelerometer + gyroscope) and gas detection sensors. It detects accidents, sends emergency alerts, and integrates safety mechanisms like ignition lock when the helmet isn’t worn. | [✅ Completed](#) |
+| 2️⃣ | **BotanyCloud** | 🌱 A hardware–cloud integrated system that monitors soil parameters using IoT sensors and streams real‑time data to the cloud for analysis. Helps farmers and researchers track plant health, irrigation needs, and environmental conditions. | [✅ Completed](#) |
 
 
 ### ![Contributions](https://img.shields.io/badge/Contributions%20&%20Community-4285F4?style=for-the-badge&logo=google-classroom&logoColor=white)
