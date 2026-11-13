@@ -7,8 +7,8 @@
         Computer Science student at RVCE interested in full-stack development, AI systems, and software engineering. I enjoy building practical products, research prototypes, and developer tools that combine modern web technologies with machine learning and systems concepts.
       </p>
       <ul>
-        <li>👨‍💻 Portfolio: <a href="https://vishal-bhat-portfolio.vercel.app/work/work.html">My Portfolio</a></li>
-        <li>📄 Resume: <a href="https://vishal-bhat-portfolio.vercel.app/Assets/images-Vishal/my-cv.pdf">my-cv</a></li>
+        <li>👨‍💻 Portfolio: <a href="https://vishalbhat-portfolio.vercel.app">My Portfolio</a></li>
+        <li>📄 Resume: <a href="https://vishalbhat-portfolio.vercel.app/VishalBhat.pdf">my-cv</a></li>
         <li>📫 Email: <a href="mailto:vishalbhat21092005@gmail.com">vishalbhat21092005@gmail.com</a></li>
       </ul>
 <!--     </td> -->
